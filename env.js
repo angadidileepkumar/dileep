@@ -1,13 +1,3 @@
-require('dotenv').config();
-
-function dotenv(){
-
-    var config : function(){
-        
-    }
-
-}
-
 
 console.log(process.env.name)
 console.log(process.env.job)
